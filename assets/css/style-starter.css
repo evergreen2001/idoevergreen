@@ -3283,7 +3283,7 @@ span.red-color {
   height: 1px;
   content: '.';
   color: transparent;
-  background: #facf5a;
+  background: #fa655a;
   visibility: none;
   opacity: 0;
   z-index: -1;
@@ -3354,7 +3354,7 @@ span.red-color {
 }
 .w3l-banner-main li.nav-item.active,.w3l-banner-main li.nav-item.active .nav-link {
   color: #91640F;
-  background: #facf5a;
+  background: #fa655a;
 }
 .w3l-banner-main .dropdown-menu {
   padding: 0;
@@ -3408,7 +3408,7 @@ background: url(../images/img.png) top;
 
 .w3l-banner-main .bannerhny-content h4 span.typed-text {
   font-weight: normal;
-  color: #facf5a;
+  color: #fa655a;
 }
 
 .w3l-banner-main .bannerhny-content p span.cursor {
@@ -6102,7 +6102,7 @@ div.ppt {
 
 .w3l-customers-6 .owl-theme .owl-dots .owl-dot.active span,
 .w3l-customers-6 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #facf5a;
+  background: #fa655a;
 }
 
 .w3l-customers-6 .owl-carousel .owl-stage {
