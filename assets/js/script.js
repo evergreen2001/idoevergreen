@@ -62,4 +62,4 @@ for(var i=0; i<len; i++)
 
 var links = document.getElementsByTagName('a');
 for(i in links)
-    links[i].target=="_blank"?links[i].style.color="#f0f" : links[i].style.color ='#0f0'
+    links[i].target=="_blank"?links[i] : links[i].style.color ='#0f0'
