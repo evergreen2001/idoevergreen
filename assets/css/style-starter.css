@@ -3368,7 +3368,7 @@ span.red-color {
 }
 
 .w3l-banner-main .bannerhny-content {
-  background: url(../images/banner2.jpg) top;
+background: url(../images/img.png) top;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -6473,7 +6473,7 @@ div.ppt {
 }
 
 .w3l-footer-16 .copy-right span.fa {
-  color: #ff4c4c;
+  color: #584cff;
 }
 
 .w3l-footer-16 .footer-gd-16 li {
@@ -6651,7 +6651,8 @@ div.ppt {
 }
 
 .w3l-ab-content-6 span.fa.icon-fea1 {
-  color: #fd8181;
+  color: #584cff;
+
   font-size: 40px;
   line-height: 1;
   margin-bottom: 20px;
